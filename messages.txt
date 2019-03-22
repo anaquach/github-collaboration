@@ -1,1 +1,1 @@
-hello
+The number of planets in the solar system is nine.
